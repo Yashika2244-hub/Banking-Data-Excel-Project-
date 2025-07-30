@@ -46,7 +46,7 @@ Used XLOOKUP to fetch Customer Name using Customer ID.
 Used INDEX-MATCH to fetch Branch Name using Branch Code.
 
 🔸 Conditional Formatting:
-Applied to Transaction Amount column to highlight outliers using percentile-based logic.
+Applied to Transaction Amount column to highlight outliers using percentile-based logic(IQR).
 
 🔸 Dashboard Creation:
 Created KPI Summary:
